@@ -8,36 +8,39 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Zeyad Azima                        # the main title
+title: Rasheed Eriqat                        # the main title
 
-tagline: Hack all the things, Fly with free wings.  # it will display as the sub-title
+tagline: Linux Enthusiast and Support Eng.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
- A Cyber Security & Technologt blog for those who are sick with 0's & 1's
+ Linux Enthusiast who is intersting in linux in all flavors and distros.
+ Also working as Support Engineer T1 with +3 years of experince supporting varios technologies as well as bussniss.
+
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://zeyad-azima.github.io/'
+url: 'rasheed-eriqat.github.io
+'
 
-author: Zeyad Azima                  # change to your full name
+author: Rasheed Eriqat                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/sample/avatar.jpeg   # support internet resources
 
 github:
-  username: Zeyad-Azima             # change to your github username
+  username: Rasheed-Eriqat             # change to your github username
 
 twitter:
-  username: AzimaZeyad            # change to your twitter username
+  username:             # change to your twitter username
 
 social:
-  name: Zeyad Azima                 # it will shows as the copyright owner in Footer
-  email: thehunterx651@gmail.com            # change to your email address
+  name: Rasheed Eriqat                 # it will shows as the copyright owner in Footer
+  email: rasheed.eriqat@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/AzimaZeyad      # change to your twitter homepage
-    - https://github.com/Zeyad-Azima      # change to your github homepage
+    # - https://twitter.com/      # change to your twitter homepage
+    - https://github.com/rasheed-eriqat      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/zer0verflow
+    - https://www.linkedin.com/in/rasheed-eriqat-3100861b1/
 
 google_site_verification: # change to your verification string
 
@@ -49,7 +52,7 @@ google_site_verification: # change to your verification string
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Africa/Cairo
+timezone: Asia/amman
 
 google_analytics:
   id: ''          # Fill with your Google Analytics ID
