@@ -7,15 +7,11 @@
 -
   type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://www.linkedin.com/in/zer0verflow/'                  # Fill with your Linkedin homepage
+  url:  'https://www.linkedin.com/in/rasheed-eriqat-3100861b1/'                  # Fill with your Linkedin homepage
 
   type: github
   icon: 'fab fa-github-alt'
-  url: 'https://github.com/Zeyad-Azima'
--
-  type: twitter
-  icon: 'fab fa-twitter'
-  url: 'https://twitter.com/AzimaZeyad'
+  url: 'https://github.com/Rasheed-Eriqat'
 -
   type: email
   icon: 'fas fa-envelope'
