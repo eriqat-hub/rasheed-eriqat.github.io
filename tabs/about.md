@@ -2,20 +2,21 @@
 title: About
 ---
 
-    An Offensive Security person, who is playing with the core of the 7 layers 
-    to build the 0day Empire.
+    Linux Enthusiast who is intersting in linux in all flavors and distros.
+ Also working as Support Engineer T1 with +3 years of experince supporting varios technologies as well as bussniss.
+
 
 
 # Contact
 
  <table>
   <tr>
-      <td><a href="https://www.linkedin.com/in/zer0verflow/">Linkedin</a></td>
-      <td><a href="https://github.com/Zeyad-Azima">Github</a></td>
-      <td><a href="https://twitter.com/@AzimaZeyad">Twitter</a></td>
+      <td><a href="https://www.linkedin.com/in/rasheed-eriqat-3100861b1/">Linkedin</a></td>
+      <td><a href="https://github.com/Rasheed-Eriqat">Github</a></td>
+      <
   </tr>
 </table> 
 
 <br>
 
-<center><img src="https://avatars.githubusercontent.com/u/62406753"></center>
+<center><img src="assets/img/sample/92a7eee54c5c4ce8ec4cd7468c2cf028.png"></center>
