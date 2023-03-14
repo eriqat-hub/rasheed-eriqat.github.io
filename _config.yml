@@ -10,16 +10,15 @@
 
 title: Rasheed Eriqat                        # the main title
 
-tagline: Linux Enthusiast and Support Eng.  # it will display as the sub-title
+tagline: Linux Enthusiast, Support and Implementation Engineer.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
  Linux Enthusiast who is intersting in linux in all flavors and distros.
- Also working as Support Engineer T1 with +3 years of experince supporting varios technologies as well as bussniss.
+ Also working as Support and Implementation Engineer T1 with +3 years of experince supporting varios technologies as well as bussniss.
 
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'rasheed-eriqat.github.io
-'
+url: 'rasheed-eriqat.github.io'
 
 author: Rasheed Eriqat                  # change to your full name
 
